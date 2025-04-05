@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "name": "express_js",
+  "description": "Minimal and flexible web framework for Node.js For Server side web applications and API's Simplifies process of handling HTTP requests and responses",
+  "version": "1.0.0",
+  "main": "my_app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nm",
+  "license": "ISC"
+}
